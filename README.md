@@ -1,3 +1,3 @@
 # CS-250
   
-  I interpret user needs and impplement them into a program by utilizing user stories.  With the use of user stories, I can gain a better understanding of the exact functionality that is expected from the user, as well as an insightful explanation about the purpose of implementing each feature.
+  I interpret user needs and impplement them into a program by utilizing user stories.  With the use of user stories, I can gain a better understanding of the exact functionality that is expected from the user, as well as an insightful explanation about the purpose of implementing each feature.  I plan on appraching future software development projects with many of the agile processes I have learned, such as scrum events to increase communication and collaboration amongst team members.  Being a good team member in software development, to me is prioritizing communication and collaboration between other team members and overall using industry best practices.
